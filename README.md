@@ -4,8 +4,9 @@
 
 ## Code Example
 
-각각의 자바 소스 파일에 1번 문제와 2번 문제를 풀이한 내용이 나와있습니다.
+각각의 자바 소스 파일에 4~7번 문제를 풀이한 내용이 나와있습니다.
 
-![심화 1번 문제](./img/highlevel1.png)
-![심화 2번 문제](./img/highlevel2.png)
-![심화 3번 문제](./img/highlevel3.png)
+![알고리즘 4번 문제](./img/algorithm4.png)
+![알고리즘 5번 문제](./img/algorithm5.png)
+![알고리즘 6번 문제](./img/algorithm6.png)
+![알고리즘 7번 문제](./img/algorithm7.png)
