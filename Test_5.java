@@ -38,7 +38,7 @@ public class Test_5 {
             sum += math;
         }
 
-        return sum / list.size() - i; // 총점 / 학생 수 - 밸리데이션 값에 충족하지 못한 학생수
+        return sum / (list.size() - i); // 총점 / 학생 수 - 밸리데이션 값에 충족하지 못한 학생수
     }
 }
 
